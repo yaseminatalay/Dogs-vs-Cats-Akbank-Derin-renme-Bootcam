@@ -31,5 +31,5 @@ Bu projede, **CNN (Convolutional Neural Network)** kullanarak kedi ve köpek gö
 - TensorBoard veya Weights & Biases ile model izleme  
 
 ## Kaggle Notebook
-Dataset: 
-Kaggle: 
+Dataset: https://www.kaggle.com/competitions/dogs-vs-cats
+Kaggle: https://www.kaggle.com/code/yaseminatalay/dogs-vs-cats-akbank-derin-renme-bootcamp
